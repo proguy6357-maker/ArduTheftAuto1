@@ -3,7 +3,7 @@ Follow these steps to wire, compile, and play the game on your Arduino setup usi
 1. Hardware Connections (Pin Mapping)
 
 Connect your components to the Arduino board exactly as listed below:
-• SSD1306 OLED Display: Connect SDA to A4 and SCL to A5 (Standard I2C pins for Arduino Uno/Nano).
+• SSD1306 OLED Display: Connect SDA to A4 and SCL to A5 (Standard I2C pins for Arduino Uno/Nano/Mega).
 • Joystick X-Axis: Connect to Analog Pin A0 (Controls car steering).
 • Joystick Y-Axis: Connect to Analog Pin A1 (Controls shop navigation).
 • Joystick Switch (SW): Connect to Digital Pin 5 (Toggles PDA menu).
