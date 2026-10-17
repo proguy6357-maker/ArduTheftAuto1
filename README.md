@@ -25,3 +25,4 @@ Open the Library Manager in the Arduino IDE (Sketch -> Include Library -> Manage
 	• 1-2 Stars (Civilian Casualties): Police will attempt a non-lethal arrest. If they touch you, the JAILED! screen triggers, you lose $300, and you respawn at the police station.
 	• 3-4 Stars (Attacking Police): Officers upgrade to lethal SWAT units. They will actively drain your HP. If you drop to 0 HP, the BUSTED! screen triggers, you lose $500, and you respawn at the hospital.
 • Ammu-Nation Armory: Press the joystick button (SW) to open your PDA. Press BTN1 to enter the weapon shop. Use the joystick Up/Down to scroll through the inventory inside the small UI box, and press BTN2 to purchase a weapon.
+Final step (Paste the code from ata.ino)
