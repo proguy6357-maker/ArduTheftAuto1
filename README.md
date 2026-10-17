@@ -10,6 +10,7 @@ Connect your components to the Arduino board exactly as listed below:
 • BTN_CYCLE (Button 1): Connect to Digital Pin 2 (Cycles weapons / enters Ammu-Nation from PDA).
 • BTN_SHOOT (Button 2): Connect to Digital Pin 3 (Fires weapon / buys items in shop).
 • Passive Buzzer: Connect to Digital Pin 6 (Handles engine sounds, shooting, and alerts).
+Connect these to a Arduino/Mega/Uno/Nano or other (If other dont work try modifying the code to port for the other circuit boards)
 Note: All buttons use internal pull-up resistors (INPUT_PULLUP). Wire them directly between the specified digital pin and GND (no external resistors needed).
 
 2. Required Libraries
